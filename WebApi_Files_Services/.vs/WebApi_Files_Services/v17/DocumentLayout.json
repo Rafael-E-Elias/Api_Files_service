@@ -1,0 +1,82 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ex1eliasra\\Source\\Repos\\WebApi_Files_Services\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{210FFF0E-3ACE-4CE0-9ED5-6F528197F347}|WebApi_Files_Services.csproj|c:\\users\\ex1eliasra\\source\\repos\\webapi_files_services\\service\\facturaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{210FFF0E-3ACE-4CE0-9ED5-6F528197F347}|WebApi_Files_Services.csproj|solutionrelative:service\\facturaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{210FFF0E-3ACE-4CE0-9ED5-6F528197F347}|WebApi_Files_Services.csproj|C:\\Users\\ex1eliasra\\Source\\Repos\\WebApi_Files_Services\\service\\presupuestoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{210FFF0E-3ACE-4CE0-9ED5-6F528197F347}|WebApi_Files_Services.csproj|solutionrelative:service\\presupuestoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{210FFF0E-3ACE-4CE0-9ED5-6F528197F347}|WebApi_Files_Services.csproj|C:\\Users\\ex1eliasra\\Source\\Repos\\WebApi_Files_Services\\controllers\\facturacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{210FFF0E-3ACE-4CE0-9ED5-6F528197F347}|WebApi_Files_Services.csproj|solutionrelative:controllers\\facturacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FacturaService.cs",
+              "DocumentMoniker": "C:\\Users\\ex1eliasra\\Source\\Repos\\WebApi_Files_Services\\Service\\FacturaService.cs",
+              "RelativeDocumentMoniker": "Service\\FacturaService.cs",
+              "ToolTip": "C:\\Users\\ex1eliasra\\Source\\Repos\\WebApi_Files_Services\\Service\\FacturaService.cs",
+              "RelativeToolTip": "Service\\FacturaService.cs",
+              "ViewState": "AQIAANwAAAAAAAAAAAAiwO8AAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T14:58:16.73Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:13:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FacturaController.cs",
+              "DocumentMoniker": "C:\\Users\\ex1eliasra\\Source\\Repos\\WebApi_Files_Services\\Controllers\\FacturaController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FacturaController.cs",
+              "ToolTip": "C:\\Users\\ex1eliasra\\Source\\Repos\\WebApi_Files_Services\\Controllers\\FacturaController.cs",
+              "RelativeToolTip": "Controllers\\FacturaController.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAAABEAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T15:16:21.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PresupuestoService.cs",
+              "DocumentMoniker": "C:\\Users\\ex1eliasra\\Source\\Repos\\WebApi_Files_Services\\Service\\PresupuestoService.cs",
+              "RelativeDocumentMoniker": "Service\\PresupuestoService.cs",
+              "ToolTip": "C:\\Users\\ex1eliasra\\Source\\Repos\\WebApi_Files_Services\\Service\\PresupuestoService.cs",
+              "RelativeToolTip": "Service\\PresupuestoService.cs",
+              "ViewState": "AQIAAJIAAAAAAAAAAAAAAJkAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T19:18:11.032Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
